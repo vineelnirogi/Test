@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="/root/git/Test/.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/vineelnirogi/Test"/>
+		<item value="https://github.com/vineelnirogi/Test/tree/TestBranch/TestArtifact"/>
+	</list>
+</section>
